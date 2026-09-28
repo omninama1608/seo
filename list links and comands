@@ -18,3 +18,156 @@ intitle:"write for us" ("SEO" OR "digital marketing" OR PPC)
 
 intitle:"write for us" "social media marketing"
 inurl:guest-post "social media marketing"
+
+
+
+
+PROMPT 
+Create a professional Excel/Google Sheets-style **SEO Monthly Work Planner and Daily Tracker** for **[MONTH YEAR]**.
+
+My role is **SEO**, and I work **Monday to Friday**.
+
+### Work Schedule
+
+* Daily working duration: **8.5 hours**
+* Monthly target: **170 hours** unless I specify a different total
+* Use **dates and day names for every working day**
+* Do not create time slots such as 9:00–10:00. Use **duration only**.
+
+### My 4 SEO Work Categories
+
+1. **Create Backlinks**
+
+   * Target: 30% of monthly work
+   * Daily target: **3 hours**
+   * Tasks can include:
+
+     * Guest posts
+     * Niche edits
+     * Outreach
+     * Link prospecting
+     * Follow-ups
+     * Link placement
+
+2. **On-Page SEO**
+
+   * Target: 30% of monthly work
+   * **Do this task for only ONE working week**
+   * Use the first working week of the month for the on-page focus.
+   * Tasks can include:
+
+     * Meta titles
+     * Meta descriptions
+     * H1/H2/H3 headers
+     * Internal linking
+     * URL optimization
+     * Keyword placement
+     * Content optimization
+     * Image/alt-text optimization
+     * Schema
+     * Technical/on-page fixes
+     * Final audit/check
+
+3. **Update Self-Registered Sites**
+
+   * Target: 30% of monthly work
+   * After the one-week on-page period, this should become the main daily task.
+   * Tasks can include:
+
+     * Q&A
+     * Answers
+     * Reviews
+     * Profiles
+     * Blogs
+     * Articles
+     * Business listings
+     * Other self-registered site updates
+
+4. **Learning**
+
+   * Target: 10% of monthly work
+   * Daily target: approximately **40–45 minutes**
+   * Tasks can include:
+
+     * SEO trends
+     * Google algorithm updates
+     * SEO courses
+     * New SEO tools
+     * Competitor SEO research
+     * Technical SEO learning
+     * AI/SEO updates
+
+### Daily Structure
+
+Keep the daily working total at **8.5 hours**.
+
+Every working day should contain:
+
+* **Create Backlinks: 3 hours**
+* **Learning: approximately 0.75 hours**
+* The remaining daily duration should be assigned to the main SEO task:
+
+  * **Week 1:** On-Page SEO
+  * **After Week 1:** Self-Registered Sites
+
+### Required Sheet Format
+
+Create the main sheet with exactly these columns:
+
+| Date | Day | Task | Estimated Duration | Completed Duration | Pending Duration | Remark |
+| ---- | --- | ---- | ------------------ | ------------------ | ---------------- | ------ |
+
+Important:
+
+* **Completed Duration must be completely blank**
+* **Pending Duration must be completely blank**
+* **Remark must be completely blank**
+* Do not put underscores, formulas, 0, or placeholder text in these blank fields.
+* I will fill them in manually later.
+* Use **"hrs"** after estimated durations.
+* Keep the layout clean and professional.
+* Group tasks under each date.
+* Show the **Date only on the first row of each day's tasks** and leave the date/day cells blank on the following task rows for that same day.
+* Add a **Daily Total** row after each day's tasks showing the estimated total of **8.5 hrs**.
+* Do not add clock-based time blocks.
+
+### Example Format
+
+| Date              | Day     | Task                                                                | Estimated Duration | Completed Duration | Pending Duration | Remark |
+| ----------------- | ------- | ------------------------------------------------------------------- | -----------------: | ------------------ | ---------------- | ------ |
+| 01-[MONTH]-[YEAR] | Monday  | Create Backlinks – Guest Posts, Niche Edits, Outreach               |              3 hrs |                    |                  |        |
+|                   |         | On-Page SEO – Meta Titles, Meta Descriptions, Headers               |           4.75 hrs |                    |                  |        |
+|                   |         | Learning – SEO Trends, Algorithm Updates, Course                    |           0.75 hrs |                    |                  |        |
+|                   |         | **Daily Total**                                                     |        **8.5 hrs** |                    |                  |        |
+| 02-[MONTH]-[YEAR] | Tuesday | Create Backlinks – Guest Posts, Niche Edits, Outreach               |              3 hrs |                    |                  |        |
+|                   |         | On-Page SEO – Internal Linking, URL Structure, Content Optimization |           4.75 hrs |                    |                  |        |
+|                   |         | Learning – SEO Trends, Algorithm Updates, Course                    |           0.75 hrs |                    |                  |        |
+|                   |         | **Daily Total**                                                     |        **8.5 hrs** |                    |                  |        |
+
+### Monthly Organization
+
+Create:
+
+1. **Main Daily Planner sheet** with all working days of the month.
+2. **Monthly Summary sheet** containing:
+
+   * Monthly Target Hours
+   * Backlink Target
+   * On-Page Target
+   * Self-Registered Sites Target
+   * Learning Target
+   * Total Planned Hours
+   * Working Days
+   * Daily Work Hours
+
+### Important
+
+* Calculate the actual dates and weekdays for the requested month.
+* Exclude Saturdays and Sundays.
+* Do not invent holidays unless I specifically provide them.
+* Keep the sheet simple, professional, and easy to update every day.
+* The main purpose is to let me record **how much work I actually completed and how much is still pending**.
+* Do not change the column order.
+* Do not add unnecessary columns.
+* Do not use time blocks; use **duration only**.
+* Export the final result as an **.xlsx Excel file**.
